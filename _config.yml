@@ -121,9 +121,6 @@ author:
   location         : "Earth, Solar System"
   email            : "tianlun.hu@tum.de"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tianlunhu@email.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TianlunHu"
